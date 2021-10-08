@@ -1,4 +1,6 @@
 # this is the test version
+def hi():
+    pass
 
 def check():
     print("check")
