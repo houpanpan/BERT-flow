@@ -5,3 +5,4 @@ def check():
 
 def hail():
     pass
+    print()
