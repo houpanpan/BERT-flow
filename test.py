@@ -2,3 +2,6 @@
 
 def check():
     print("check")
+
+def hail():
+    pass
